@@ -1,0 +1,20 @@
+-make hover area smaller for select provider button
+-figure out how to condense everything before the instructions table/get rid
+of whitespace???
+-auto-generate Details text for 100% pi-managed option
+-add service now ticket# box
+
+
+-clean up unnecessary code
+-put on github
+-figure out how to make accessible
+
+Probably can't figure out:
+-get rid of "select conditions" box upon printing???
+
+Done:
+-move "select conditions" box above table
+-make default cell height smaller
+
+Cayla doesn't mind:
+-background color of OAR/Lab
